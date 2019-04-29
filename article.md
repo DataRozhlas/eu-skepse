@@ -7,13 +7,13 @@ styles: []
 libraries: [jquery, highcharts, 'https://code.highcharts.com/modules/wordcloud.js']
 options: []
 ---
-Která z emocí se vám ve spojení s Evropskou unií vybaví jako první: _pochybnosti_, _naděje_, _jistota_ nebo _strach_? Pro polovinu Čechů jsou to pochybnosti, ukázal celoevropský [dubnový Eurobarometr](http://www.europarl.europa.eu/at-your-service/en/be-heard/eurobarometer/emotions-and-political-engagement-towards-the-eu). Naopak v podílu těch, kteří si ve spojení s unií vybaví naději nebo jistotu, je Česko na posledních místech. Češi z průzkumu vyšli jako největší euroskeptici; negativnější než Řekové i přesto, že řada z nich unii viní z bankrotu své země během finanční krize, skeptičtejší než Britové před brexitem.
+Která z emocí se vám ve spojení s Evropskou unií vybaví jako první: _pochybnosti_, _naděje_, _jistota_ nebo _strach_? Pro polovinu Čechů jsou to pochybnosti, ukázal celoevropský [dubnový Eurobarometr](http://www.europarl.europa.eu/at-your-service/en/be-heard/eurobarometer/emotions-and-political-engagement-towards-the-eu). Naopak v podílu těch, kteří si ve spojení s unií vybaví naději nebo jistotu, je Česko na posledních místech. Češi z průzkumu vyšli jako největší euroskeptici; negativnější než Řekové i přesto, že řada z nich unii viní z bankrotu své země během finanční krize, skeptičtější než Britové před brexitem.
 
 <div style="width: 100%; height: 800px" id="eurobarometr"></div>
 
-Česká skepse k Evropské unii je také tématem [čerstvého průzkumu trojice Behavio Labs, STEM a Institutu pro evropskou politiku Europeum](http://xxx.cz). Výzkumníci zvolili originální přístup.
+Česká skepse k Evropské unii je také tématem čerstvého průzkumu trojice Behavio Labs, STEM a Institutu pro evropskou politiku Europeum. Výzkumníci zvolili originální přístup.
 
-„Sledovali jsme vztah Čechů a unie na mnoha úrovních, dokonce i na té nejhlubší, emoční,“ popisuje společný průzkum Jiří Boudal z Behavio Labs. „Češi od unie očekávají sílu, průbojnost nebo odolnost. Tyhle emoci si ale spojují spíš s Ruskem nebo Spojenými státy, s Evropskou unií málo.“
+„Sledovali jsme vztah Čechů a unie na mnoha úrovních, dokonce i na té nejhlubší, emoční,“ popisuje společný průzkum Jiří Boudal z Behavio Labs. „Češi od unie očekávají sílu, průbojnost nebo odolnost. Tyhle emoce si ale spojují spíš s Ruskem nebo Spojenými státy, s Evropskou unií málo.“
 
 Mezi státy a nadnárodními organizacemi se EU v průzkumu umístila mezi nejméně oblíbenými, za ní už zůstala pouze Čína a Rusko. S unií si Češi spojují hlavně ochranu míru, byrokracii a drobné zákazy. Spojené státy považují za akceschopnou velmoc, Německo vyniká prosperitou, s Českem se pojí bezpečnost, vlastenectví a svoboda.
 
@@ -36,7 +36,6 @@ Detailnější pohled na český euroskepticismus ale prozrazuje, že odmítán�
 <h3>Detaily průzkumu</h3>
 <div>Studii uskutečnily Behavio Labs a STEM ve spolupráci s Institutem pro evropskou politiku Europeum za finančního přispění Friedrich Neumann Foundation, Nadace Blíž k sobě a dalších filantropů. V online panelu Behavio Labs odpovídalo 1000 respondentů a je reprezentativní pro českou populaci. Průzkum probíhal od prosince 2018 do února 2019.</div>
 <div><img src="https://www.irozhlas.cz/sites/default/files/uploader/xxx_190428-184437_jab.png" style="width: 100%"></div>
-<div>Celou studii najdete <a href="http://xxx.cz">zde</a></div>
 </right>
 
 „Evropu Češi milují, velká část opravdu silně, zbytek ji má rád nebo jim nevadí,“ vysvětluje Boudal. „Je to logické, s Evropou si spojujeme památky, historii, hrdost na to, že žijeme v bezpečném místě a v relativním blahobytu.“
@@ -57,7 +56,7 @@ V době referenda o vstupu do unie v roce 2003 přitom u Čechů převažovalo n
 
 „Od té doby se změnila politická debata, dnes v novinách nenajdete tolik negativních článků. Možná na to měl vliv i brexit, který pro spoustu politiků a novinářů znamenal šok. Uvědomili si, že pokud budeme EU prezentovat jako někoho, kdo nám škodí, můžeme dopadnout stejně jako Britové,“ pokračuje.
 
-„A podobné to je i v dalších zemích unie: třeba francouzská populistka Marie le Penová od té doby opustila rétoriku vystoupení z EU. Podobně Liga Severu, která vládne v Itálii, najednou nemluví o vystoupení z eurozóny. Elita si uvědomila, že zahrávat si s myšlenkou odchodu z unie se nemusí vyplatit,“ dodává Havelka.
+„A podobné to je i v dalších zemích unie: třeba francouzská populistka Marine Le Penová od té doby opustila rétoriku vystoupení z EU. Podobně Liga Severu, která vládne v Itálii, najednou nemluví o vystoupení z eurozóny. Elita si uvědomila, že zahrávat si s myšlenkou odchodu z unie se nemusí vyplatit,“ dodává Havelka.
 
 ## Test: co by měla umět vaše unie? Naklikejte si priority
 
@@ -81,7 +80,7 @@ Stejný test si můžete vyzkoušet i vy. Jaké priority by měla vaše unie?
 
 Výsledky testu výzkumníky překvapily. Češi se podle nich shodnou na hodnotách svých budoucích unií víc, než očekávali.
 
-„Když jsme jim představili třicet možných priorit, tak se ukázalo, že se odpovědi shodují,“ popisuje výsledky testu Jiří Boudal z Behavio Labs. „Témata jako je ochrana životního prostředí, péče o půdu a čistotu vody, nebo snaha o zachování kvalitních potravin, se v prioritách opakovala,“ dodává Boudal.
+„Když jsme jim představili třicet možných priorit, tak se ukázalo, že se odpovědi shodují,“ popisuje výsledky testu Jiří Boudal z Behavio Labs. „Témata, jako je ochrana životního prostředí, péče o půdu a čistotu vody nebo snaha o zachování kvalitních potravin, se v prioritách opakovala,“ dodává Boudal.
 
 Klíčovou funkcí nově navržené unie bylo pro Čechy nejčastěji zachování míru, důležité je pro 45 procent respondentů. Druhou a třetí v pořadí byl boj proti znečistění půdy, vody a vzduchu (45 %) a stejné složení potravin napříč unií (44 %). Až za nimi se umístily například společná ochrana před terorismem (40 %), řešení migrace v zemi původu (35 %), nebo lepší ochrana evropských hranic (32 %).
 
@@ -93,7 +92,7 @@ Studie zároveň odkryla, že řada respondentů nemá přehled o tom, které pr
 
 „Jeden příklad za všechny: jedna z důležitých priorit pro respondenty byla postarat se o vnější hranice, nějak je chránit. Z jiné otázky ale víme, že sedmdesát procent lidí neví o tom, že existuje celoevropská agentura Frontex, která se ochranou hranic zabývá,“ tvrdí Boudal.
 
-„Právě Frontex, který teď prochází výrazným personálním posílením, můžeme snadno představit třeba přes reportáže z míst, kde už takové jednotky jsou,“ dodává. „Co naopak nefunguje, je říct lidem, kteří toho o unii moc neví, že jsou nevzdělaní, a podobně. Elity často právě tohle říkají třeba v novinových titulcích. My víme, že to ty lidi naštve, zapouzdří a uzavře jakékoliv ochotě změnit názor.“
+„Právě Frontex, který teď prochází výrazným personálním posílením, můžeme snadno představit třeba přes reportáže z míst, kde už takové jednotky jsou,“ dodává. „Co naopak nefunguje, je říct lidem, kteří toho o unii moc neví, že jsou nevzdělaní a podobně. Elity často právě tohle říkají třeba v novinových titulcích. My víme, že to ty lidi naštve, zapouzdří a uzavře jakékoliv ochotě změnit názor.“
 
 ## Čím hrdější na Česko, tím hrdější na unii
 
@@ -103,7 +102,7 @@ Výzkumníci podle odpovědí identifikovali několik skupin respondentů, na z�
 <h3>Česko a EU ve zkratce</h3>
 <p>Češi přistoupili k EU v květnu 2004. V Evropské komisi země v současnosti ovládá post komisaře pro spravedlnost. V 751členném Evropském parlamentu zemi zastupuje 21 poslanců. Další české zástupce vyjmenovává <a href="https://www.euroskop.cz/9227/sekce/cesi-v-institucich-eu/">Euroskop</a>.</p>
 <p>Od května 2004 do prosince 2017 Češi z unie získali přes 1,2 bilionu korun, odvedli 515 miliard. Země je tedy čistým příjemcem se ziskem 695 miliard korun.</p>
-<p>Volby do Evropského parlamentu se budou konat od 24. do 25. května 2019. Prohédněte si <a href="https://www.irozhlas.cz/volby/volby-2019-evropsky-parlament-interaktivni-kandidatky_1904110900_jab">seznam kandidátů</a> nebo <a href="https://www.irozhlas.cz/volby/evropsky-parlament-volby-kandidati-2019_1904231639_cib">audiovizitky lídrů</a>.</p>
+<p>Volby do Evropského parlamentu se budou konat od 24. do 25. května 2019. Prohlédněte si <a href="https://www.irozhlas.cz/volby/volby-2019-evropsky-parlament-interaktivni-kandidatky_1904110900_jab">seznam kandidátů</a> nebo <a href="https://www.irozhlas.cz/volby/evropsky-parlament-volby-kandidati-2019_1904231639_cib">audiovizitky lídrů</a>.</p>
 </right>
 
 „Největší rozdíl mezi jednotlivými skupinami je v tom, jak hodnotí českou politickou reprezentaci a polistopadový vývoj,“ vysvětluje Nikola Hořejš. „Je tady skupina lidí, kteří mají průměrný nebo relativně dobrý příjem a nejsou nevzdělaní, ale protože mají pocit, že republika poslední desetiletí kráčí špatným směrem, tak odmítají i EU nebo jakoukoliv mezinárodní spolupráci.“

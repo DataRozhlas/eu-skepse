@@ -31,11 +31,11 @@ var vlastenectvieu = [34, 6, 3, 2, 1];
 
 var vlastenectvikat = ['přesvědčení zastánci členství', 'vlažní zastánci', 'kritičtí', 'nedůvěřiví', 'odpůrci členství'];
 
-var prioritydul = [45.4,45.4,44.1,39.9,39.2,36.2,36.6,36.7,35.3,35.7,31.8,30.1,26.9,28.8,26.1,27.4,26.4,25.4,22.9,22.1,20.1,17.0,16.0,16.9,16.4,14.5,14.6,11.7,5.9];
+var prioritydul = [45.4,45.4,44.1,39.9,39.2,36.7,36.6,36.2,35.7,35.3,31.8,30.1,28.8,27.4,26.9,26.4,26.1,25.4,22.9,22.1,20.1,17.0,16.9,16.4,16.0,14.6,14.5,11.7,5.9];
 
-var prioritynesm = [9.0,7.4,5.2,5.6,5.3,6.7,3.1,5.1,11.6,6.7,8.8,11.0,4.2,5.1,3.7,9.4,5.5,18.6,12.8,10.6,5.2,12.3,14.4,10.7,16.7,21.8,27.1,15.9,38.4];
+var prioritynesm = [9.0,7.4,5.2,5.6,5.3,5.1,3.1,6.7,6.7,11.6,8.8,11.0,5.1,9.4,4.2,5.5,3.7,18.6,12.8,10.6,5.2,12.3,10.7,16.7,14.4,27.1,21.8,15.9,38.4];
 
-var prioritykat = ['Život bez válek v Evropě','Čistší vzduch, zdravější voda i půda','Kvalitní potraviny ve všech zemích','Lepší obrana proti terorismu','Kvalitnější léky','Bezpečnější potraviny a výrobky','Úspěšnější pátrání po ztracených dětech','Lépe placená práce','Řešení migrace v zemi původu','Více potravin od místních zemědělců','Společná ochrana vnější hranice','Společná obrana proti vnějším útokům','Můžu cestovat po Evropě, jako bych byl v ČR','Rychlejší dopadení zločinců','Můžu jít za lepší prací nebo studiem do zahraničí','Nikdo nezneužije mé osobní údaje','Levnější a kvalitnější výrobky, služby a energie','Neovládne nás cizí mocnost','Češi se podílejí na řízení unie','Malé místní firmy budou chráněny proti nadnárodním velikánům','Čeští vědci u důležitých objevů','Podpora chudších regionů','Pomoc s vyšetřováním dotačních podvodů','České speciality nebudou padělány','Pomoc, když přijdu o práci','ČR je součástí velmoci','Pojistka proti ovládnutí soudů ze strany politiků','Neoberou mě podvodní prodejci','Společný vývoj zbraní'];
+var prioritykat = ['Život bez válek v Evropě','Čistší vzduch, zdravější voda i půda','Kvalitní potraviny ve všech zemích','Lepší obrana proti terorismu','Kvalitnější léky','Lépe placená práce','Úspěšnější pátrání po ztracených dětech','Bezpečnější potraviny a výrobky','Více potravin od místních zemědělců','Řešení migrace v zemi původu','Společná ochrana vnější hranice','Společná obrana proti vnějším útokům','Rychlejší dopadení zločinců','Nikdo nezneužije mé osobní údaje','Můžu cestovat po Evropě, jako bych byl v ČR','Levnější a kvalitnější výrobky, služby a energie','Můžu jít za lepší prací nebo studiem do zahraničí','Neovládne nás cizí mocnost','Češi se podílejí na řízení unie','Malé místní firmy budou chráněny proti nadnárodním velikánům','Čeští vědci u důležitých objevů','Podpora chudších regionů','České speciality nebudou padělány','Pomoc, když přijdu o práci','Pomoc s vyšetřováním dotačních podvodů','Pojistka proti ovládnutí soudů ze strany politiků','ČR je součástí velmoci','Neoberou mě podvodní prodejci','Společný vývoj zbraní'];
 
 var wordsevropa = [
 {name:"domov",weight:280},
@@ -373,7 +373,7 @@ Highcharts.chart('fungovani', {
         enabled: false
     },
     credits: {
-        href: 'http://xxx.cz',
+        href: '',
         text: 'Zdroj: Behavio + STEM + Europeum'
     },
     legend: {
@@ -419,7 +419,7 @@ Highcharts.chart('vlastenectvi', {
         enabled: false
     },
     credits: {
-        href: 'http://xxx.cz',
+        href: '',
         text: 'Zdroj: Behavio + STEM + Europeum'
     },
     series: [{
@@ -466,7 +466,7 @@ Highcharts.chart('priority', {
         enabled: false
     },
     credits: {
-        href: 'http://xxx.cz',
+        href: '',
         text: 'Zdroj: Behavio + STEM + Europeum'
     },
     series: [{
